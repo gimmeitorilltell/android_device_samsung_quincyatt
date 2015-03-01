@@ -20,10 +20,6 @@ $(call inherit-product-if-exists, vendor/samsung/quincyatt/quincyatt-vendor.mk)
 ## overlays
 DEVICE_PACKAGE_OVERLAYS += device/samsung/quincyatt/overlay
 
-# Ramdisk
-PRODUCT_COPY_FILES += \
-    device/samsung/quincyatt/ramdisk/init.qcom.usb.rc:root/init.qcom.usb.rc
-
 # BT firmware
 PRODUCT_COPY_FILES += \
     device/samsung/quincyatt/firmware/bcm4330B1.hcd:system/etc/firmware/bcm4330B1.hcd
