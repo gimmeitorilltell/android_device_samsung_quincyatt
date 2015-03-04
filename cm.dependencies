@@ -2,7 +2,7 @@
   {
     "repository": "gimmeitorilltell/device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "branch": "cm-12.0"
+    "branch": "c5"
   },
   {
     "repository": "gimmeitorilltell/device_samsung_msm8660-common",
@@ -32,6 +32,6 @@
   {
     "repository": "gimmeitorilltell/android_kernel_samsung_msm8660-common",
     "target_path": "kernel/samsung/msm8660",
-    "branch": "cm-12.0"
+    "branch": "c5"
   }
 ]
