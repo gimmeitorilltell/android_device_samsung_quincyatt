@@ -35,6 +35,9 @@ TARGET_BOARD_INFO_FILE ?= device/samsung/quincyatt/board-info.txt
 # Resoultion
 DEVICE_RESOLUTION := 800x1280
 
+# Low-ram optimizations
+PAC_LOW_RAM_DEVICE := true
+
 # FM radio
 PRODUCT_PACKAGES += \
     FM2 \

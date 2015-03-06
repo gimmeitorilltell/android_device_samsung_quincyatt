@@ -1,2 +1,2 @@
-add_lunch_combo cm_quincyatt-userdebug
+add_lunch_combo pac_quincyatt-userdebug
 
