@@ -1,36 +1,36 @@
 [
   {
-    "repository": "gimmeitorilltell/device_samsung_qcom-common",
+    "repository": "SlimDev/device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
     "branch": "c5"
   },
   {
-    "repository": "gimmeitorilltell/device_samsung_msm8660-common",
+    "repository": "SlimDev/device_samsung_msm8660-common",
     "target_path": "device/samsung/msm8660-common",
     "branch": "c5"
   },
   {
-    "repository": "gimmeitorilltell/android_device_samsung_quincy-common",
+    "repository": "SlimDev/device_samsung_quincy-common",
     "target_path": "device/samsung/quincy-common",
     "branch": "c5"
   },
   {
-    "repository": "gimmeitorilltell/hardware_qcom_display-caf",
+    "repository": "SlimDev/hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf/msm8660",
     "branch": "cm-12.0-caf-8660"
   },
   {
-    "repository": "gimmeitorilltell/hardware_qcom_audio-caf",
+    "repository": "SlimDev/hardware_qcom_audio-caf",
     "target_path": "hardware/qcom/audio-caf/msm8660",
     "branch": "cm-12.0-caf-8660"
   },
   {
-    "repository": "gimmeitorilltell/hardware_qcom_media-caf",
+    "repository": "SlimDev/hardware_qcom_media-caf",
     "target_path": "hardware/qcom/media-caf/msm8660",
     "branch": "cm-12.0-caf-8660"
   },
   {
-    "repository": "gimmeitorilltell/android_kernel_samsung_msm8660-common",
+    "repository": "SlimDev/android_kernel_samsung_msm8660-common",
     "target_path": "kernel/samsung/msm8660",
     "branch": "c5"
   }
