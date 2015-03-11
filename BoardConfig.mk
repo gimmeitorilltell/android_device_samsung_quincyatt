@@ -38,13 +38,6 @@ DEVICE_RESOLUTION := 800x1280
 # Low-ram optimizations
 PAC_LOW_RAM_DEVICE := true
 
-# FM radio
-PRODUCT_PACKAGES += \
-    FM2 \
-    FMRecord \
-    libqcomfm_jni \
-    qcom.fmradio
-
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_quincyatt_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/msm8660-common
