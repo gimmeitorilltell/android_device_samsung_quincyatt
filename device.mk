@@ -24,13 +24,6 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/quincyatt/overlay
 PRODUCT_COPY_FILES += \
     device/samsung/quincyatt/firmware/bcm4330B1.hcd:system/etc/firmware/bcm4330B1.hcd
 
-# FM radio
-PRODUCT_PACKAGES += \
-    FM2 \
-    FMRecord \
-    libqcomfm_jni \
-    qcom.fmradio
-
 # Inherit from quincy-common
 $(call inherit-product, device/samsung/quincy-common/quincy-common.mk)
 
