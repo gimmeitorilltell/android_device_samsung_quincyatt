@@ -17,8 +17,8 @@ ril.subscription.types=NV,RUIM
 
 #System prop for screen flicker
 debug.composition.type=gpu
+persist.hwc.mdpcomp.enable=false
 dev.pm.dyn_samplingrate=1
-dev.pm.gpu_samplingrate=1
 
 # Disable GC freed lines
 dalvik.vm.debug.alloc=0
