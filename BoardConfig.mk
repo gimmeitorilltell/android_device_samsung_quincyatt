@@ -37,7 +37,6 @@ DEVICE_RESOLUTION := 800x1280
 
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_quincyatt_defconfig
-TARGET_CPU_MEMCPY_BASE_OPT_DISABLE := true
 
 # Partitions
 TARGET_USERIMAGES_USE_EXT4 := true
