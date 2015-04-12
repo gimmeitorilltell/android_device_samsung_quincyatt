@@ -20,6 +20,10 @@ debug.composition.type=gpu
 dev.pm.dyn_samplingrate=1
 dev.pm.gpu_samplingrate=1
 
+#Build all default English
+ro.product.locale.language=en
+ro.product.locale.region=US
+
 # Disable GC freed lines
 dalvik.vm.debug.alloc=0
 
