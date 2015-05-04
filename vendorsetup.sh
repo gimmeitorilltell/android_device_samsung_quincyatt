@@ -1,2 +1,4 @@
-add_lunch_combo bs_quincyatt-userdebug
+add_lunch_combo candy5_quincyatt-user
+add_lunch_combo candy5_quincyatt-userdebug
+add_lunch_combo candy5_quincyatt-eng
 
