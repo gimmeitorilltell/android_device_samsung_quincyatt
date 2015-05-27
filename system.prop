@@ -20,6 +20,9 @@ debug.composition.type=gpu
 dev.pm.dyn_samplingrate=1
 dev.pm.gpu_samplingrate=1
 
+#Enable NavBar
+qemu.hw.mainkeys=0
+
 # Disable GC freed lines
 dalvik.vm.debug.alloc=0
 
