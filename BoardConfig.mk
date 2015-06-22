@@ -36,7 +36,7 @@ TARGET_BOARD_INFO_FILE ?= device/samsung/quincyatt/board-info.txt
 DEVICE_RESOLUTION := 800x1280
 
 # Kernel
-TARGET_KERNEL_CONFIG := candy5_quincyatt_defconfig
+TARGET_KERNEL_CONFIG := cyanogenmod_quincyatt_defconfig
 
 # Partitions
 TARGET_USERIMAGES_USE_EXT4 := true
