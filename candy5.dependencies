@@ -15,8 +15,8 @@
     "branch": "c5.1"
   },
   {
-    "repository": "CandyDevices/android_kernel_samsung_msm8660-common",
-    "target_path": "kernel/samsung/msm8660",
+    "repository": "CandyDevices/kernel_samsung_msm8660-common",
+    "target_path": "kernel/samsung/msm8660-common",
     "branch": "c5.1"
   }
 ]
