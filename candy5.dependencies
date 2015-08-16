@@ -1,8 +1,8 @@
 [
   {
-    "repository": "CandyDevices/device_samsung_qcom-common",
+    "repository": "CyanogenMod/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "branch": "c5.1"
+    "branch": "cm-12.1"
   },
   {
     "repository": "CandyDevices/device_samsung_msm8660-common",
