@@ -1,0 +1,23 @@
+[
+  {
+    "remote": "gh",
+    "repository": "SlimRoms/device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch": "lp5.1"
+  },
+  {
+    "repository": "SlimRoms/device_samsung_msm8660-common",
+    "target_path": "device/samsung/msm8660-common",
+    "branch": "lp5.1"
+  },
+  {
+    "repository": "SlimDev/device_samsung_quincy-common",
+    "target_path": "device/samsung/quincy-common",
+    "revision": "lp5.1"
+  },
+  {
+    "repository": "SlimRoms/kernel_samsung_msm8660",
+    "target_path": "kernel/samsung/msm8660-common",
+    "branch": "lp5.1"
+  }
+]
