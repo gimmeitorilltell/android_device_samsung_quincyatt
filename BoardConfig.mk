@@ -32,9 +32,6 @@ TARGET_BOOTLOADER_BOARD_NAME := MSM8660_SURF
 TARGET_OTA_ASSERT_DEVICE := SGH-I717,quincyatt
 TARGET_BOARD_INFO_FILE ?= device/samsung/quincyatt/board-info.txt
 
-# TWRP-Resolution
-TW_THEME := landscape_hdpi
-
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_quincyatt_defconfig
 
